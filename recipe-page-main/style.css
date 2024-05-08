@@ -1,0 +1,34 @@
+body{
+ 
+    align-content: center;
+    font-size: medium;
+    padding: 30px;
+    text-align: justify;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+    
+}
+
+header{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+}
+.content{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: bisque;
+    font-size: 19px;
+
+}
+.content > img{
+    width: 800px;
+    margin: 0 auto;
+    padding: 5px;
+    height: auto;
+    display: block;
+    
+}
